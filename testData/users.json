@@ -1,0 +1,11 @@
+[
+    {
+    "validEmail": "oana.rusu@yahoo.com",
+    "validPassword": "Automat1on"
+    },
+    {
+      "invalidEmail": "test",
+      "invalidPassword": "test"
+    }
+]
+
